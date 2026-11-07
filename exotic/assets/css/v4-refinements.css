@@ -1,0 +1,30 @@
+/* Exotic keeps its dramatic photographs and airy ivory editorial chapters. */
+.t049 section.bg-white { background-image:radial-gradient(ellipse at 0 20%,rgba(93,114,84,.045),transparent 45%),radial-gradient(ellipse at 100% 80%,rgba(176,141,87,.07),transparent 42%); }
+.t049 section.bg-white h2 { text-wrap:balance; }
+.t049 section.bg-white p { text-wrap:pretty; }
+.t049 section.bg-white a { min-height:44px; }
+.t049 .rs-time { font-variant-numeric:lining-nums tabular-nums; }
+.t049 section.bg-white img[src*="ornament-v2"] { max-width:10rem; opacity:.8; }
+.t049 section.bg-white:has(img[src*="venue-v2"]) img[src*="venue-v2"] { border-radius:2px; box-shadow:0 12px 30px rgba(44,36,32,.12); }
+.t049 section.bg-white:has(img[src*="venue-v2"]) h3 { line-height:1.25; }
+.t049 input,.t049 textarea { transition:background-color .3s,border-color .3s,box-shadow .3s; }
+.t049 input:focus,.t049 textarea:focus { background:rgba(208,188,161,.08); box-shadow:0 0 0 3px rgba(176,141,87,.08); }
+.t049 label:has(input:focus-visible) { outline:2px solid #b08d57; outline-offset:4px; }
+.rs-dua { max-width:32rem; margin-inline:auto; }
+.t049 section:has(.rs-time) { background-color:#22372d; background-image:radial-gradient(ellipse at 0 50%,rgba(176,141,87,.15),transparent 60%); color:#f3e9da; overflow:hidden; }
+.t049 section:has(.rs-time) h2,.t049 section:has(.rs-time) p,.t049 section:has(.rs-time) .rs-time { color:#f3e9da; }
+.t049 .rs-time ~ span { color:#f3e9da; }
+.t049 .rs-time + div { background-color:rgba(211,188,148,.5); }
+.t049 section:has(.rs-time) img[src*="ornament-v2"] { opacity:.18; width:8rem; translate:-35% 0; }
+.t049 section:has(.rs-dua) { background-image:radial-gradient(ellipse at 50% 20%,rgba(208,188,161,.17),transparent 70%); }
+.t049 section:has(.rs-monogram),.t049 section:has(.rs-dua) { position:relative; isolation:isolate; overflow:hidden; }
+.t049 section:has(.rs-monogram)::before,.t049 section:has(.rs-dua)::before { content:""; position:absolute; z-index:-1; width:19rem; height:24rem; background:url(../images/pomegranate-branch-v4.webp) center/contain no-repeat; pointer-events:none; opacity:.16; }
+.t049 section:has(.rs-monogram)::before { left:-7rem; top:1rem; rotate:-12deg; }
+.t049 section:has(.rs-dua)::before { right:-8rem; bottom:-4rem; scale:-1 1; rotate:8deg; opacity:.14; }
+.t049 .rs-label { color:#76644c; }
+.t049 input::placeholder,.t049 textarea::placeholder { color:#817467; opacity:1; }
+.t049 .rs-choice:has(input:checked) { background:#6b765d; border-color:#6b765d; color:#fff; }
+.rs-closing,.rs-closing[data-m],.rs-closing [data-m] { opacity:1!important; transform:none!important; filter:none!important; }
+.rs-closing { background-image:url(../images/closing-v2.webp); background-size:cover; background-position:50% 50%; }
+@media(max-width:480px) { .t049 section.bg-white { padding-top:3.4rem; padding-bottom:3.4rem; } .t049 .rs-time { min-width:4.8rem; } }
+@media(prefers-reduced-motion:reduce) { .t049 input,.t049 textarea { transition:none; } }
