@@ -1,0 +1,401 @@
+[
+  {
+    "at": 0,
+    "state": {
+      "body": "",
+      "cover": [
+        {
+          "display": "flex",
+          "id": "cover",
+          "opacity": "1",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "coverVideo",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/exotic/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/exotic/assets/video/opening-v3.mp4",
+          "time": 0,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 5,
+    "state": {
+      "body": "",
+      "cover": [
+        {
+          "display": "flex",
+          "id": "cover",
+          "opacity": "1",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "coverVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/exotic/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/exotic/assets/video/opening-v3.mp4",
+          "time": 0.2526,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 665,
+    "state": {
+      "body": "",
+      "cover": [
+        {
+          "display": "flex",
+          "id": "cover",
+          "opacity": "1",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "coverVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/exotic/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/exotic/assets/video/opening-v3.mp4",
+          "time": 0.9134,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 1316,
+    "state": {
+      "body": "",
+      "cover": [
+        {
+          "display": "flex",
+          "id": "cover",
+          "opacity": "1",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "coverVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/exotic/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/exotic/assets/video/opening-v3.mp4",
+          "time": 1.564,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 1977,
+    "state": {
+      "body": "",
+      "cover": [
+        {
+          "display": "flex",
+          "id": "cover",
+          "opacity": "1",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "coverVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/exotic/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/exotic/assets/video/opening-v3.mp4",
+          "time": 2.2256,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 2636,
+    "state": {
+      "body": "",
+      "cover": [
+        {
+          "display": "flex",
+          "id": "cover",
+          "opacity": "1",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "coverVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/exotic/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/exotic/assets/video/opening-v3.mp4",
+          "time": 2.8838,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 3286,
+    "state": {
+      "body": "",
+      "cover": [
+        {
+          "display": "flex",
+          "id": "cover",
+          "opacity": "1",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "coverVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/exotic/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/exotic/assets/video/opening-v3.mp4",
+          "time": 3.5345,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 3943,
+    "state": {
+      "body": "",
+      "cover": [
+        {
+          "display": "flex",
+          "id": "cover",
+          "opacity": "1",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "coverVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/exotic/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/exotic/assets/video/opening-v3.mp4",
+          "time": 4.1914,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 4605,
+    "state": {
+      "body": "",
+      "cover": [
+        {
+          "display": "flex",
+          "id": "cover",
+          "opacity": "1",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "coverVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/exotic/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/exotic/assets/video/opening-v3.mp4",
+          "time": 4.8534,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 5261,
+    "state": {
+      "body": "",
+      "cover": [
+        {
+          "display": "flex",
+          "id": "cover",
+          "opacity": "0.467712",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": true,
+          "id": "coverVideo",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/exotic/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/exotic/assets/video/opening-v3.mp4",
+          "time": 5.166667,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 5911,
+    "state": {
+      "body": "",
+      "cover": [
+        {
+          "display": "flex",
+          "id": "cover",
+          "opacity": "0.00696478",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": true,
+          "id": "coverVideo",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/exotic/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/exotic/assets/video/opening-v3.mp4",
+          "time": 5.166667,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 6561,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 900,
+      "title": null,
+      "videos": [],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 7221,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 900,
+      "title": null,
+      "videos": [],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 7629,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 900,
+      "title": null,
+      "videos": [],
+      "width": 1440,
+      "y": 0
+    }
+  }
+]

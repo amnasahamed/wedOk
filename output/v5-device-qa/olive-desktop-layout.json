@@ -1,0 +1,60 @@
+{
+  "height": 900,
+  "missing": [],
+  "oversizedText": [],
+  "scrollWidth": 1425,
+  "sections": [
+    {
+      "heading": "Rafael&Ava",
+      "height": 900,
+      "id": "hero",
+      "index": 0,
+      "y": 0
+    },
+    {
+      "heading": "",
+      "height": 667,
+      "id": "",
+      "index": 1,
+      "y": 900
+    },
+    {
+      "heading": "Save the Date",
+      "height": 566,
+      "id": "",
+      "index": 2,
+      "y": 1567
+    },
+    {
+      "heading": "Countdown",
+      "height": 383,
+      "id": "",
+      "index": 3,
+      "y": 2133
+    },
+    {
+      "heading": "The Celebrations",
+      "height": 1829,
+      "id": "",
+      "index": 4,
+      "y": 2516
+    },
+    {
+      "heading": "Confirm Your Presence",
+      "height": 754,
+      "id": "rsvp",
+      "index": 5,
+      "y": 4344
+    },
+    {
+      "heading": "",
+      "height": 454,
+      "id": "",
+      "index": 6,
+      "y": 5098
+    }
+  ],
+  "total": 5551,
+  "width": 1440,
+  "errors": []
+}

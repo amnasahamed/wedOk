@@ -1,0 +1,30 @@
+{
+  "last": {
+    "left": 762,
+    "selected": [
+      "false",
+      "false",
+      "true"
+    ],
+    "width": 381
+  },
+  "desktop": {
+    "display": "grid",
+    "left": 0,
+    "selected": [
+      "true",
+      "false",
+      "false"
+    ],
+    "width": 1120
+  },
+  "backToMobile": {
+    "left": 762,
+    "selected": [
+      "false",
+      "false",
+      "true"
+    ],
+    "width": 381
+  }
+}

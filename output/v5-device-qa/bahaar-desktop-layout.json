@@ -1,0 +1,88 @@
+{
+  "height": 900,
+  "missing": [],
+  "oversizedText": [],
+  "scrollWidth": 1425,
+  "sections": [
+    {
+      "heading": "Mira Vale\n            Daughter of Mr. & Mrs. Henry Vale\n          \n\n          &\n\n          \n            Theo Ashford\n   ",
+      "height": 900,
+      "id": "top",
+      "index": 0,
+      "y": 0
+    },
+    {
+      "heading": "",
+      "height": 630,
+      "id": "welcome",
+      "index": 1,
+      "y": 928
+    },
+    {
+      "heading": "Scratch to reveal",
+      "height": 900,
+      "id": "date-reveal",
+      "index": 2,
+      "y": 1530
+    },
+    {
+      "heading": "A glimpse of our journey",
+      "height": 1191,
+      "id": "gallery",
+      "index": 3,
+      "y": 2430
+    },
+    {
+      "heading": "Today is the day",
+      "height": 646,
+      "id": "countdown",
+      "index": 4,
+      "y": 3649
+    },
+    {
+      "heading": "A celebration in bloom",
+      "height": 1049,
+      "id": "timeline",
+      "index": 5,
+      "y": 4268
+    },
+    {
+      "heading": "Where we will celebrate",
+      "height": 1261,
+      "id": "venue",
+      "index": 6,
+      "y": 5345
+    },
+    {
+      "heading": "The dress code",
+      "height": 782,
+      "id": "dress-code",
+      "index": 7,
+      "y": 6578
+    },
+    {
+      "heading": "Days filled with joy",
+      "height": 1272,
+      "id": "events",
+      "index": 8,
+      "y": 7361
+    },
+    {
+      "heading": "Your presence is our present",
+      "height": 724,
+      "id": "gifts",
+      "index": 9,
+      "y": 8634
+    },
+    {
+      "heading": "We can't wait to celebrate with you",
+      "height": 1026,
+      "id": "closing",
+      "index": 10,
+      "y": 9356
+    }
+  ],
+  "total": 10382,
+  "width": 1440,
+  "errors": []
+}

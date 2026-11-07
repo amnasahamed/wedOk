@@ -1,0 +1,97 @@
+{
+  "height": 844,
+  "missingImages": [],
+  "overflow": false,
+  "sections": [
+    {
+      "className": "hero",
+      "heading": "Mira Vale\n            Daughter of Mr. & Mrs. Henry Vale\n          \n\n          &\n\n          \n            Theo Ashford\n            Son of Mr. & Mrs. Hugo Ashford",
+      "height": 844,
+      "id": "top",
+      "index": 0,
+      "y": 0
+    },
+    {
+      "className": "section verse-section reveal-on-scroll v3-section v3-entered is-visible",
+      "heading": "",
+      "height": 591,
+      "id": "welcome",
+      "index": 1,
+      "y": 844
+    },
+    {
+      "className": "section date-reveal reveal-on-scroll v3-section v3-entered is-visible",
+      "heading": "Scratch to reveal",
+      "height": 844,
+      "id": "date-reveal",
+      "index": 2,
+      "y": 1435
+    },
+    {
+      "className": "section gallery-section reveal-on-scroll v3-section v3-entered is-visible",
+      "heading": "A glimpse of our journey",
+      "height": 744,
+      "id": "gallery",
+      "index": 3,
+      "y": 2279
+    },
+    {
+      "className": "section countdown-section reveal-on-scroll v3-section v3-entered is-visible",
+      "heading": "Today is the day",
+      "height": 535,
+      "id": "countdown",
+      "index": 4,
+      "y": 3023
+    },
+    {
+      "className": "section timeline-section reveal-on-scroll v3-section v3-entered is-visible",
+      "heading": "A celebration in bloom",
+      "height": 846,
+      "id": "timeline",
+      "index": 5,
+      "y": 3558
+    },
+    {
+      "className": "section venue-section reveal-on-scroll v3-section v3-entered is-visible",
+      "heading": "Where we will celebrate",
+      "height": 1748,
+      "id": "venue",
+      "index": 6,
+      "y": 4404
+    },
+    {
+      "className": "section dress-section reveal-on-scroll v3-section v3-entered is-visible",
+      "heading": "The dress code",
+      "height": 559,
+      "id": "dress-code",
+      "index": 7,
+      "y": 6152
+    },
+    {
+      "className": "section events-section reveal-on-scroll v3-section v3-entered is-visible",
+      "heading": "Days filled with joy",
+      "height": 2078,
+      "id": "events",
+      "index": 8,
+      "y": 6711
+    },
+    {
+      "className": "section gifts-section reveal-on-scroll v3-section v3-entered is-visible",
+      "heading": "Your presence is our present",
+      "height": 608,
+      "id": "gifts",
+      "index": 9,
+      "y": 8789
+    },
+    {
+      "className": "closing",
+      "heading": "We can't wait to celebrate with you",
+      "height": 854,
+      "id": "closing",
+      "index": 10,
+      "y": 9397
+    }
+  ],
+  "total": 10250,
+  "width": 390
+}

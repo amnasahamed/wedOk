@@ -1,0 +1,44 @@
+{
+  "amber": {
+    "venue": "Rambagh Palace",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "source": "https://www.tajhotels.com/en-in/hotels/rambagh-palace-jaipur"
+  },
+  "ruby": {
+    "venue": "Umaid Bhawan Palace",
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "source": "https://www.tajhotels.com/en-in/hotels/umaid-bhawan-palace-jodhpur"
+  },
+  "mithril": {
+    "venue": "Jagmandir Island Palace",
+    "city": "Udaipur",
+    "state": "Rajasthan",
+    "source": "https://www.hrhhotels.com/hotels/jagmandir_island_palace/about.php"
+  },
+  "bloom": {
+    "venue": "The Leela Palace Bengaluru",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "source": "https://www.theleela.com/the-leela-palace-bengaluru"
+  },
+  "bahaar": {
+    "venue": "The Lodhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "source": "https://www.thelodhi.com/"
+  },
+  "olive": {
+    "venue": "Alila Diwa Goa",
+    "city": "Majorda",
+    "state": "Goa",
+    "source": "https://www.hyatt.com/alila-hotels-and-resorts/en-US/goial-alila-diwa-goa"
+  },
+  "exotic": {
+    "venue": "Taj Falaknuma Palace",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "source": "https://www.tajhotels.com/en-in/hotels/taj-falaknuma-palace-hyderabad"
+  }
+}

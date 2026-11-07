@@ -1,0 +1,105 @@
+{
+  "height": 844,
+  "missingImages": [],
+  "overflow": false,
+  "sections": [
+    {
+      "className": "hero is-open",
+      "heading": "Clara Rowe",
+      "height": 844,
+      "id": "hero",
+      "index": 0,
+      "y": 0
+    },
+    {
+      "className": "welcome-section section-pad",
+      "heading": "A Beautiful Beginning",
+      "height": 545,
+      "id": "welcome",
+      "index": 1,
+      "y": 844
+    },
+    {
+      "className": "scratch-section section-pad",
+      "heading": "Scratch to Reveal",
+      "height": 613,
+      "id": "date",
+      "index": 2,
+      "y": 1389
+    },
+    {
+      "className": "gallery-section section-pad",
+      "heading": "Moments, softly held",
+      "height": 750,
+      "id": "",
+      "index": 3,
+      "y": 2001
+    },
+    {
+      "className": "countdown-section section-pad",
+      "heading": "Counting every heartbeat",
+      "height": 488,
+      "id": "",
+      "index": 4,
+      "y": 2752
+    },
+    {
+      "className": "program-section section-pad",
+      "heading": "Our Wedding Day",
+      "height": 699,
+      "id": "",
+      "index": 5,
+      "y": 3240
+    },
+    {
+      "className": "venue-section section-pad",
+      "heading": "The Glasshouse",
+      "height": 547,
+      "id": "",
+      "index": 6,
+      "y": 3939
+    },
+    {
+      "className": "dress-section section-pad",
+      "heading": "Festive Formal",
+      "height": 577,
+      "id": "",
+      "index": 7,
+      "y": 4485
+    },
+    {
+      "className": "events-section section-pad",
+      "heading": "Days filled with joy",
+      "height": 1692,
+      "id": "",
+      "index": 8,
+      "y": 5062
+    },
+    {
+      "className": "gifts-section section-pad",
+      "heading": "Your presence is our present",
+      "height": 398,
+      "id": "",
+      "index": 9,
+      "y": 6755
+    },
+    {
+      "className": "rsvp-section section-pad",
+      "heading": "Kindly RSVP",
+      "height": 1022,
+      "id": "",
+      "index": 10,
+      "y": 7153
+    },
+    {
+      "className": "closing-section",
+      "heading": "We can't wait to celebrate with you.",
+      "height": 546,
+      "id": "",
+      "index": 11,
+      "y": 8175
+    }
+  ],
+  "total": 8721,
+  "width": 390
+}

@@ -1,0 +1,90 @@
+{
+  "name": "amber",
+  "label": "mobile430",
+  "initial": {
+    "fields": [
+      {
+        "id": "rsvpName",
+        "missing": true,
+        "name": "",
+        "required": true,
+        "type": "text",
+        "value": ""
+      },
+      {
+        "id": "rsvpEmail",
+        "missing": false,
+        "name": "",
+        "required": false,
+        "type": "email",
+        "value": ""
+      },
+      {
+        "id": "rsvpAttendance",
+        "missing": true,
+        "name": "",
+        "required": true,
+        "type": "select-one",
+        "value": ""
+      },
+      {
+        "id": "rsvpGuests",
+        "missing": false,
+        "name": "",
+        "required": false,
+        "type": "select-one",
+        "value": ""
+      },
+      {
+        "id": "rsvpNote",
+        "missing": false,
+        "name": "",
+        "required": false,
+        "type": "textarea",
+        "value": ""
+      }
+    ],
+    "music": [
+      {
+        "id": "musicToggle",
+        "label": "Play background music"
+      }
+    ],
+    "radios": [],
+    "scratch": [
+      {
+        "id": "scratchCanvas",
+        "label": "Scratch to reveal the wedding date. Press Enter to reveal."
+      }
+    ]
+  },
+  "field": {
+    "missing": false,
+    "value": "QA Preview"
+  },
+  "radioChecks": [],
+  "select": {
+    "value": "Joyfully accepts"
+  },
+  "musicBefore": [
+    {
+      "id": "backgroundMusic",
+      "paused": true
+    }
+  ],
+  "musicAfter": {
+    "audio": [
+      {
+        "id": "backgroundMusic",
+        "paused": true
+      }
+    ],
+    "label": "Play background music"
+  },
+  "scratch": {
+    "display": "block",
+    "opacity": "0.959982",
+    "parentClass": "scratch-wrap is-revealed",
+    "pointerEvents": "none"
+  }
+}

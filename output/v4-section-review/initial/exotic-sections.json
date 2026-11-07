@@ -1,0 +1,105 @@
+{
+  "height": 844,
+  "missingImages": [],
+  "overflow": false,
+  "sections": [
+    {
+      "className": "rs-hero relative flex h-[100svh] w-full flex-col items-center justify-between overflow-hidden bg-[#241d19] py-14",
+      "heading": "",
+      "height": 844,
+      "id": "",
+      "index": 0,
+      "y": 0
+    },
+    {
+      "className": "bg-white px-8 pb-2 pt-12 v3-section v3-entered",
+      "heading": "",
+      "height": 117,
+      "id": "",
+      "index": 1,
+      "y": 844
+    },
+    {
+      "className": "bg-white px-8 py-10 v3-section v3-entered",
+      "heading": "",
+      "height": 474,
+      "id": "",
+      "index": 2,
+      "y": 961
+    },
+    {
+      "className": "overflow-hidden bg-white px-8 py-14 v3-section v3-entered",
+      "heading": "",
+      "height": 529,
+      "id": "",
+      "index": 3,
+      "y": 1435
+    },
+    {
+      "className": "relative overflow-hidden bg-white px-6 pb-16 pt-12 v3-section v3-entered",
+      "heading": "",
+      "height": 557,
+      "id": "",
+      "index": 4,
+      "y": 1964
+    },
+    {
+      "className": "bg-white px-6 py-14 v3-section v3-entered",
+      "heading": "",
+      "height": 303,
+      "id": "",
+      "index": 5,
+      "y": 2521
+    },
+    {
+      "className": "relative overflow-hidden px-6 py-16 lg:mx-auto lg:max-w-2xl v3-section v3-entered",
+      "heading": "",
+      "height": 406,
+      "id": "",
+      "index": 6,
+      "y": 2824
+    },
+    {
+      "className": "relative overflow-hidden bg-white px-6 pb-16 v3-section v3-entered",
+      "heading": "",
+      "height": 620,
+      "id": "",
+      "index": 7,
+      "y": 3229
+    },
+    {
+      "className": "bg-white px-8 py-14 v3-section v3-entered",
+      "heading": "",
+      "height": 363,
+      "id": "",
+      "index": 8,
+      "y": 3849
+    },
+    {
+      "className": "bg-white px-8 py-14 v3-section v3-entered",
+      "heading": "",
+      "height": 310,
+      "id": "",
+      "index": 9,
+      "y": 4212
+    },
+    {
+      "className": "relative overflow-hidden bg-white px-6 pb-16 pt-6 v3-section v3-entered",
+      "heading": "",
+      "height": 648,
+      "id": "",
+      "index": 10,
+      "y": 4521
+    },
+    {
+      "className": "relative overflow-hidden bg-white px-8 pb-24 pt-10 v3-section v3-entered",
+      "heading": "",
+      "height": 507,
+      "id": "closing",
+      "index": 11,
+      "y": 5169
+    }
+  ],
+  "total": 5677,
+  "width": 390
+}

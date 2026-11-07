@@ -1,0 +1,415 @@
+[
+  {
+    "at": 0,
+    "state": {
+      "body": "intro-locked",
+      "cover": [
+        {
+          "display": "flex",
+          "id": "hero",
+          "opacity": "1",
+          "transform": "none"
+        }
+      ],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/amber/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/amber/assets/video/opening-v3.mp4",
+          "time": 0,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 5,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/amber/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/amber/assets/video/opening-v3.mp4",
+          "time": 0.2891,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 673,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/amber/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/amber/assets/video/opening-v3.mp4",
+          "time": 0.9572,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 1324,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/amber/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/amber/assets/video/opening-v3.mp4",
+          "time": 1.6077,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 1983,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/amber/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/amber/assets/video/opening-v3.mp4",
+          "time": 2.2676,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 2644,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/amber/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/amber/assets/video/opening-v3.mp4",
+          "time": 2.9279,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 3304,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/amber/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/amber/assets/video/opening-v3.mp4",
+          "time": 3.5884,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 3964,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/amber/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/amber/assets/video/opening-v3.mp4",
+          "time": 4.2481,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 4623,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/amber/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/amber/assets/video/opening-v3.mp4",
+          "time": 4.9068,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 5283,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "0.75s both v5-title-enter",
+        "opacity": "0.820482"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": true,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/amber/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/amber/assets/video/opening-v3.mp4",
+          "time": 5.166667,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 5942,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "0.75s both v5-title-enter",
+        "opacity": "1"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": true,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/amber/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/amber/assets/video/opening-v3.mp4",
+          "time": 5.166667,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 6597,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "0.75s both v5-title-enter",
+        "opacity": "1"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": true,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/amber/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/amber/assets/video/opening-v3.mp4",
+          "time": 5.166667,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 7254,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "0.75s both v5-title-enter",
+        "opacity": "1"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": true,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/amber/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/amber/assets/video/opening-v3.mp4",
+          "time": 5.166667,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 7610,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "0.75s both v5-title-enter",
+        "opacity": "1"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": true,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/amber/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/amber/assets/video/opening-v3.mp4",
+          "time": 5.166667,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  }
+]

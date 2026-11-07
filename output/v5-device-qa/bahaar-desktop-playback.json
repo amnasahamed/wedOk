@@ -1,0 +1,464 @@
+[
+  {
+    "at": 0,
+    "state": {
+      "body": "scroll-locked",
+      "cover": [
+        {
+          "display": "block",
+          "id": "opening-gate",
+          "opacity": "1",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "intro-video",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/bahaar/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/bahaar/assets/video/opening-v3.mp4",
+          "time": 0,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 5,
+    "state": {
+      "body": "experience-open",
+      "cover": [
+        {
+          "display": "none",
+          "id": "opening-gate",
+          "opacity": "0",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "intro-video",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/bahaar/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/bahaar/assets/video/opening-v3.mp4",
+          "time": 0.2809,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 661,
+    "state": {
+      "body": "experience-open",
+      "cover": [
+        {
+          "display": "none",
+          "id": "opening-gate",
+          "opacity": "0",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "intro-video",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/bahaar/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/bahaar/assets/video/opening-v3.mp4",
+          "time": 0.9371,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 1325,
+    "state": {
+      "body": "experience-open",
+      "cover": [
+        {
+          "display": "none",
+          "id": "opening-gate",
+          "opacity": "0",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "intro-video",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/bahaar/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/bahaar/assets/video/opening-v3.mp4",
+          "time": 1.6011,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 1984,
+    "state": {
+      "body": "experience-open",
+      "cover": [
+        {
+          "display": "none",
+          "id": "opening-gate",
+          "opacity": "0",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "intro-video",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/bahaar/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/bahaar/assets/video/opening-v3.mp4",
+          "time": 2.2602,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 2644,
+    "state": {
+      "body": "experience-open",
+      "cover": [
+        {
+          "display": "none",
+          "id": "opening-gate",
+          "opacity": "0",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "intro-video",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/bahaar/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/bahaar/assets/video/opening-v3.mp4",
+          "time": 2.9194,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 3304,
+    "state": {
+      "body": "experience-open",
+      "cover": [
+        {
+          "display": "none",
+          "id": "opening-gate",
+          "opacity": "0",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "intro-video",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/bahaar/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/bahaar/assets/video/opening-v3.mp4",
+          "time": 3.58,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 3968,
+    "state": {
+      "body": "experience-open",
+      "cover": [
+        {
+          "display": "none",
+          "id": "opening-gate",
+          "opacity": "0",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "intro-video",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/bahaar/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/bahaar/assets/video/opening-v3.mp4",
+          "time": 4.2432,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 4636,
+    "state": {
+      "body": "experience-open",
+      "cover": [
+        {
+          "display": "none",
+          "id": "opening-gate",
+          "opacity": "0",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "intro-video",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/bahaar/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/bahaar/assets/video/opening-v3.mp4",
+          "time": 4.9114,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 5305,
+    "state": {
+      "body": "experience-open",
+      "cover": [
+        {
+          "display": "none",
+          "id": "opening-gate",
+          "opacity": "0",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": true,
+          "id": "intro-video",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/bahaar/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/bahaar/assets/video/opening-v3.mp4",
+          "time": 5.166667,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 5965,
+    "state": {
+      "body": "experience-open",
+      "cover": [
+        {
+          "display": "none",
+          "id": "opening-gate",
+          "opacity": "0",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": true,
+          "id": "intro-video",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/bahaar/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/bahaar/assets/video/opening-v3.mp4",
+          "time": 5.166667,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 6617,
+    "state": {
+      "body": "experience-open",
+      "cover": [
+        {
+          "display": "none",
+          "id": "opening-gate",
+          "opacity": "0",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": true,
+          "id": "intro-video",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/bahaar/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/bahaar/assets/video/opening-v3.mp4",
+          "time": 5.166667,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 7278,
+    "state": {
+      "body": "experience-open",
+      "cover": [
+        {
+          "display": "none",
+          "id": "opening-gate",
+          "opacity": "0",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": true,
+          "id": "intro-video",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/bahaar/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/bahaar/assets/video/opening-v3.mp4",
+          "time": 5.166667,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  },
+  {
+    "at": 7602,
+    "state": {
+      "body": "experience-open",
+      "cover": [
+        {
+          "display": "none",
+          "id": "opening-gate",
+          "opacity": "0",
+          "transform": "none"
+        }
+      ],
+      "height": 900,
+      "title": null,
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": true,
+          "id": "intro-video",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/bahaar/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/bahaar/assets/video/opening-v3.mp4",
+          "time": 5.166667,
+          "transform": "none"
+        }
+      ],
+      "width": 1440,
+      "y": 0
+    }
+  }
+]

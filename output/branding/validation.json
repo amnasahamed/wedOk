@@ -1,0 +1,10 @@
+{
+  "identities": 8,
+  "configSyntax": "passed",
+  "localAssets": "passed",
+  "playbackRegressionChecks": "passed",
+  "zareenChangedFiles": [
+    "zareen/index.html",
+    "zareen/assets/js/config.js"
+  ]
+}

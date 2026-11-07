@@ -1,0 +1,121 @@
+{
+  "name": "bloom",
+  "label": "mobile430",
+  "initial": {
+    "fields": [
+      {
+        "id": "rName",
+        "missing": false,
+        "name": "",
+        "required": false,
+        "type": "text",
+        "value": ""
+      },
+      {
+        "id": "",
+        "missing": false,
+        "name": "att",
+        "required": false,
+        "type": "radio",
+        "value": "yes"
+      },
+      {
+        "id": "",
+        "missing": false,
+        "name": "att",
+        "required": false,
+        "type": "radio",
+        "value": "no"
+      },
+      {
+        "id": "rGuests",
+        "missing": false,
+        "name": "",
+        "required": false,
+        "type": "number",
+        "value": ""
+      },
+      {
+        "id": "rNote",
+        "missing": false,
+        "name": "",
+        "required": false,
+        "type": "textarea",
+        "value": ""
+      }
+    ],
+    "music": [
+      {
+        "id": "musicBtn",
+        "label": "Pause background music"
+      }
+    ],
+    "radios": [
+      {
+        "forLabel": false,
+        "id": "",
+        "value": "yes",
+        "wrapped": true
+      },
+      {
+        "forLabel": false,
+        "id": "",
+        "value": "no",
+        "wrapped": true
+      }
+    ],
+    "scratch": [
+      {
+        "id": "",
+        "label": "Scratch to reveal the date"
+      }
+    ]
+  },
+  "field": {
+    "missing": false,
+    "value": "QA Preview"
+  },
+  "radioChecks": [
+    [
+      {
+        "checked": true,
+        "value": "yes"
+      },
+      {
+        "checked": false,
+        "value": "no"
+      }
+    ],
+    [
+      {
+        "checked": false,
+        "value": "yes"
+      },
+      {
+        "checked": true,
+        "value": "no"
+      }
+    ]
+  ],
+  "musicBefore": [
+    {
+      "id": "music",
+      "paused": false
+    }
+  ],
+  "musicAfter": {
+    "audio": [
+      {
+        "id": "music",
+        "paused": true
+      }
+    ],
+    "label": "Play background music"
+  },
+  "scratch": {
+    "display": "block",
+    "opacity": "0.88812",
+    "parentClass": "scratch",
+    "pointerEvents": "none"
+  }
+}

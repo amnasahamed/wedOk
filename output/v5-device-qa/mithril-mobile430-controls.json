@@ -1,0 +1,113 @@
+{
+  "name": "mithril",
+  "label": "mobile430",
+  "initial": {
+    "fields": [
+      {
+        "id": "vr-name",
+        "missing": true,
+        "name": "name",
+        "required": true,
+        "type": "text",
+        "value": ""
+      },
+      {
+        "id": "vr-guests",
+        "missing": false,
+        "name": "guests",
+        "required": false,
+        "type": "number",
+        "value": ""
+      },
+      {
+        "id": "vr-yes",
+        "missing": true,
+        "name": "response",
+        "required": true,
+        "type": "radio",
+        "value": "yes"
+      },
+      {
+        "id": "vr-no",
+        "missing": true,
+        "name": "response",
+        "required": true,
+        "type": "radio",
+        "value": "no"
+      }
+    ],
+    "music": [
+      {
+        "id": "musicBtn",
+        "label": "Pause background music"
+      }
+    ],
+    "radios": [
+      {
+        "forLabel": true,
+        "id": "vr-yes",
+        "value": "yes",
+        "wrapped": false
+      },
+      {
+        "forLabel": true,
+        "id": "vr-no",
+        "value": "no",
+        "wrapped": false
+      }
+    ],
+    "scratch": [
+      {
+        "id": "",
+        "label": "Scratch to reveal the date"
+      }
+    ]
+  },
+  "field": {
+    "missing": false,
+    "value": "QA Preview"
+  },
+  "radioChecks": [
+    [
+      {
+        "checked": true,
+        "value": "yes"
+      },
+      {
+        "checked": false,
+        "value": "no"
+      }
+    ],
+    [
+      {
+        "checked": false,
+        "value": "yes"
+      },
+      {
+        "checked": true,
+        "value": "no"
+      }
+    ]
+  ],
+  "musicBefore": [
+    {
+      "id": "music",
+      "paused": false
+    }
+  ],
+  "musicAfter": {
+    "audio": [
+      {
+        "id": "music",
+        "paused": true
+      }
+    ],
+    "label": "Play background music"
+  },
+  "scratch": {
+    "display": "block",
+    "opacity": "1",
+    "parentClass": "vr-scratch relative flex w-full flex-col items-center justify-center overflow-hidden rounded-[12px] bg-[#fdfaf4] px-5 text-center mithril-v3-card",
+    "pointerEvents": "none"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "height": 900,
+  "missing": [],
+  "oversizedText": [],
+  "scrollWidth": 1425,
+  "sections": [
+    {
+      "heading": "Clara Rowe",
+      "height": 900,
+      "id": "hero",
+      "index": 0,
+      "y": 0
+    },
+    {
+      "heading": "A Beautiful Beginning",
+      "height": 604,
+      "id": "welcome",
+      "index": 1,
+      "y": 900
+    },
+    {
+      "heading": "Scratch to Reveal",
+      "height": 1007,
+      "id": "date",
+      "index": 2,
+      "y": 1504
+    },
+    {
+      "heading": "Moments, softly held",
+      "height": 1060,
+      "id": "",
+      "index": 3,
+      "y": 2511
+    },
+    {
+      "heading": "Counting every heartbeat",
+      "height": 626,
+      "id": "",
+      "index": 4,
+      "y": 3570
+    },
+    {
+      "heading": "Our Wedding Day",
+      "height": 962,
+      "id": "",
+      "index": 5,
+      "y": 4196
+    },
+    {
+      "heading": "The Glasshouse",
+      "height": 699,
+      "id": "",
+      "index": 6,
+      "y": 5158
+    },
+    {
+      "heading": "Festive Formal",
+      "height": 654,
+      "id": "",
+      "index": 7,
+      "y": 5858
+    },
+    {
+      "heading": "Days filled with joy",
+      "height": 1240,
+      "id": "",
+      "index": 8,
+      "y": 6512
+    },
+    {
+      "heading": "Your presence is our present",
+      "height": 553,
+      "id": "",
+      "index": 9,
+      "y": 7752
+    },
+    {
+      "heading": "Kindly RSVP",
+      "height": 883,
+      "id": "",
+      "index": 10,
+      "y": 8305
+    },
+    {
+      "heading": "We can't wait to celebrate with you.",
+      "height": 530,
+      "id": "",
+      "index": 11,
+      "y": 9188
+    }
+  ],
+  "total": 9718,
+  "width": 1440,
+  "errors": []
+}

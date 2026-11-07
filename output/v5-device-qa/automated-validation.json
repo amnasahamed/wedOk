@@ -1,0 +1,37 @@
+[
+  {
+    "check": "amber_ruby",
+    "exit_code": 0,
+    "output": "amber: 6 media-state scenarios passed\nruby: 6 media-state scenarios passed\namber: music click, external-pause recovery and pause passed\nruby: music click, external-pause recovery and pause passed\n"
+  },
+  {
+    "check": "mithril",
+    "exit_code": 0,
+    "output": "PASS decoded-frame handoff, repeated events, scroll unlock, no hero reset\nPASS playing plus double-rAF fallback\nPASS rejected hero displays matching poster and unlocks\nPASS stalled hero poster fallback then late decoded-frame recovery\nPASS stalled opener watchdog, known and unknown duration\nPASS rejected opener proceeds to usable hero fallback\n"
+  },
+  {
+    "check": "olive",
+    "exit_code": 0,
+    "output": "PASS normal opening starts at zero, repeated tap ignored, end unlocks\nPASS stalled opening watchdog unlocks\nPASS rejected playback opens usable page\nPASS Skip bypasses video and unlocks\nPASS keyboard activation and time threshold\nPASS preserved original, stationary stage and suppressed cream flash\n"
+  },
+  {
+    "check": "botanical",
+    "exit_code": 0,
+    "output": "PASS Bloom duration, buffering/ended/error watchdog, keyboard and persistent Skip\nPASS Bahaar progress, no-progress/buffer Skip, failed play/error, repeat taps and names timing\nPASS Bahaar actual scratch Enter/Space, one reveal, disabled completed foil, retained pointer/touch\nPASS Exotic actual tap/ended/error listeners, rejected play, one transition, native load and fade-only exit\nPASS Exotic opening prompt dismisses on click and keyboard activation\nAll botanical playback checks passed. Browser/device visual QA is recorded in V5_BLOOM_BAHAAR_EXOTIC_QA.md.\n"
+  },
+  {
+    "check": "assets",
+    "exit_code": 0,
+    "output": "amber: 6 configured local media references; 0 missing\nbahaar: 8 configured local media references; 0 missing\nbloom: 1 configured local media references; 0 missing\nexotic: 9 configured local media references; 0 missing\nmithril: 13 configured local media references; 0 missing\nolive: 1 configured local media references; 0 missing\nruby: 4 configured local media references; 0 missing\nzareen: 10 configured local media references; 0 missing\n"
+  },
+  {
+    "check": "syntax_integrity",
+    "exit_code": 0,
+    "output": "PASS 42 live script entry points plus changed scratch module; Zareen 82 files byte-for-byte unchanged\n"
+  },
+  {
+    "check": "evidence",
+    "exit_code": 0,
+    "output": "Refreshed 21 device cases and seven orientation records.\n"
+  }
+]

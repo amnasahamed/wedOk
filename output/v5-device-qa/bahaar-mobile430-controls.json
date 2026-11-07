@@ -1,0 +1,42 @@
+{
+  "name": "bahaar",
+  "label": "mobile430",
+  "initial": {
+    "fields": [],
+    "music": [
+      {
+        "id": "music-control",
+        "label": "Turn music off"
+      }
+    ],
+    "radios": [],
+    "scratch": [
+      {
+        "id": "scratch-canvas",
+        "label": "Reveal the wedding date"
+      }
+    ]
+  },
+  "radioChecks": [],
+  "musicBefore": [
+    {
+      "id": "background-music",
+      "paused": false
+    }
+  ],
+  "musicAfter": {
+    "audio": [
+      {
+        "id": "background-music",
+        "paused": true
+      }
+    ],
+    "label": "Turn music on"
+  },
+  "scratch": {
+    "display": "block",
+    "opacity": "1",
+    "parentClass": "scratch-wrap",
+    "pointerEvents": "none"
+  }
+}

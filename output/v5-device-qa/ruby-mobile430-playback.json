@@ -1,0 +1,415 @@
+[
+  {
+    "at": 0,
+    "state": {
+      "body": "intro-locked",
+      "cover": [
+        {
+          "display": "flex",
+          "id": "hero",
+          "opacity": "1",
+          "transform": "none"
+        }
+      ],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/ruby/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/ruby/assets/video/opening-v3.mp4",
+          "time": 0,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 4,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/ruby/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/ruby/assets/video/opening-v3.mp4",
+          "time": 0.049,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 667,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/ruby/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/ruby/assets/video/opening-v3.mp4",
+          "time": 0.7117,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 1323,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/ruby/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/ruby/assets/video/opening-v3.mp4",
+          "time": 1.368,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 1992,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/ruby/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/ruby/assets/video/opening-v3.mp4",
+          "time": 2.0375,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 2652,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/ruby/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/ruby/assets/video/opening-v3.mp4",
+          "time": 2.697,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 3318,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/ruby/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/ruby/assets/video/opening-v3.mp4",
+          "time": 3.363,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 3982,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/ruby/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/ruby/assets/video/opening-v3.mp4",
+          "time": 4.0275,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 4632,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "none",
+        "opacity": "0"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": false,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": false,
+          "poster": "http://localhost:4173/ruby/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/ruby/assets/video/opening-v3.mp4",
+          "time": 4.6773,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 5282,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "0.75s both v5-title-enter",
+        "opacity": "0.264977"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": true,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/ruby/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/ruby/assets/video/opening-v3.mp4",
+          "time": 5.166667,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 5942,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "0.75s both v5-title-enter",
+        "opacity": "1"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": true,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/ruby/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/ruby/assets/video/opening-v3.mp4",
+          "time": 5.166667,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 6603,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "0.75s both v5-title-enter",
+        "opacity": "1"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": true,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/ruby/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/ruby/assets/video/opening-v3.mp4",
+          "time": 5.166667,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 7253,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "0.75s both v5-title-enter",
+        "opacity": "1"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": true,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/ruby/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/ruby/assets/video/opening-v3.mp4",
+          "time": 5.166667,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  },
+  {
+    "at": 7609,
+    "state": {
+      "body": "",
+      "cover": [],
+      "height": 932,
+      "title": {
+        "animation": "0.75s both v5-title-enter",
+        "opacity": "1"
+      },
+      "videos": [
+        {
+          "duration": 5.166667,
+          "ended": true,
+          "id": "introVideo",
+          "opacity": "1",
+          "paused": true,
+          "poster": "http://localhost:4173/ruby/assets/images/opening-poster-v3.webp",
+          "rate": 1,
+          "ready": 4,
+          "src": "http://localhost:4173/ruby/assets/video/opening-v3.mp4",
+          "time": 5.166667,
+          "transform": "matrix(1, 0, 0, 1, 0, 0)"
+        }
+      ],
+      "width": 430,
+      "y": 0
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "folder": "amber",
+    "previous": "Amber",
+    "name": "Sunehri",
+    "signature": "Candlelit celebrations"
+  },
+  {
+    "folder": "bahaar",
+    "previous": "Bahaar",
+    "name": "Gulistan",
+    "signature": "A garden in celebration"
+  },
+  {
+    "folder": "bloom",
+    "previous": "Bloom",
+    "name": "Gulabi",
+    "signature": "Romance in every petal"
+  },
+  {
+    "folder": "exotic",
+    "previous": "Exotic",
+    "name": "Raat Rani",
+    "signature": "For evenings that linger"
+  },
+  {
+    "folder": "mithril",
+    "previous": "Mithril",
+    "name": "Aabha",
+    "signature": "An heirloom of light"
+  },
+  {
+    "folder": "olive",
+    "previous": "Olive",
+    "name": "Aranya",
+    "signature": "Rooted in togetherness"
+  },
+  {
+    "folder": "ruby",
+    "previous": "Ruby",
+    "name": "Gulnaar",
+    "signature": "A celebration in velvet"
+  },
+  {
+    "folder": "zareen",
+    "previous": "Zareen",
+    "name": "Noor Mahal",
+    "signature": "A luminous celebration"
+  }
+]

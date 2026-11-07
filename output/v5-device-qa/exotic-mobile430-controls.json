@@ -1,0 +1,113 @@
+{
+  "name": "exotic",
+  "label": "mobile430",
+  "initial": {
+    "fields": [
+      {
+        "id": "rsvp-name",
+        "missing": true,
+        "name": "name",
+        "required": true,
+        "type": "text",
+        "value": ""
+      },
+      {
+        "id": "rsvp-guests",
+        "missing": false,
+        "name": "guests",
+        "required": false,
+        "type": "number",
+        "value": ""
+      },
+      {
+        "id": "",
+        "missing": false,
+        "name": "response",
+        "required": false,
+        "type": "radio",
+        "value": "yes"
+      },
+      {
+        "id": "",
+        "missing": false,
+        "name": "response",
+        "required": false,
+        "type": "radio",
+        "value": "no"
+      }
+    ],
+    "music": [
+      {
+        "id": "musicBtn",
+        "label": "Pause background music"
+      }
+    ],
+    "radios": [
+      {
+        "forLabel": false,
+        "id": "",
+        "value": "yes",
+        "wrapped": true
+      },
+      {
+        "forLabel": false,
+        "id": "",
+        "value": "no",
+        "wrapped": true
+      }
+    ],
+    "scratch": [
+      {
+        "id": "",
+        "label": "Scratch to reveal the date"
+      }
+    ]
+  },
+  "field": {
+    "missing": false,
+    "value": "QA Preview"
+  },
+  "radioChecks": [
+    [
+      {
+        "checked": true,
+        "value": "yes"
+      },
+      {
+        "checked": false,
+        "value": "no"
+      }
+    ],
+    [
+      {
+        "checked": false,
+        "value": "yes"
+      },
+      {
+        "checked": true,
+        "value": "no"
+      }
+    ]
+  ],
+  "musicBefore": [
+    {
+      "id": "music",
+      "paused": false
+    }
+  ],
+  "musicAfter": {
+    "audio": [
+      {
+        "id": "music",
+        "paused": true
+      }
+    ],
+    "label": "Play background music"
+  },
+  "scratch": {
+    "display": "block",
+    "opacity": "0.943937",
+    "parentClass": "rs-scratch relative mx-auto flex aspect-[1.45] w-full flex-col items-center justify-center overflow-hidden rounded-[28px] border border-[#2c2420]/[0.07] bg-white px-6 text-center shadow-[0_20px_40px_-30px_rgba(44,36,32,0.45)]",
+    "pointerEvents": "none"
+  }
+}
